@@ -1,6 +1,6 @@
 # FixityChecker
 
-This checks a fraction of all files. 
+This checks a fraction of all bags, determining if they match the bagit standard. Used for large collections. 
 usage:
 
 python Checker.py Directory
